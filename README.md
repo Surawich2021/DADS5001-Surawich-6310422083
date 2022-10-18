@@ -1,6 +1,5 @@
 # DADS5001-Surawich-6310422083
-
-***** Final Version ขออนุญาต update และ submit ให้ใหม่ภายในวันอังคารที่ 18 ตุลาคม เวลา 23.59 น่ะครับ *****
+(https://github.com/Surawich2021/DADS5001-Surawich-6310422083/issues/1#issue-1413076626)
 
 
 
